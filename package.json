@@ -1,0 +1,8 @@
+{
+    "name": "webutils",
+    "version": "0.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Luis Miguel Santos",
+    "contributors": [],
+    "dependencies": {}
+}
